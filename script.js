@@ -1,6 +1,6 @@
 const list = document.getElementById("infi-list");
 const loadingMessage = document.createElement("li");
-loadingMessage.textContent = "Loading...";
+
 
 let page = 1;
 
